@@ -1,0 +1,18 @@
+# Dépendances et build
+node_modules/
+dist/
+dist-ssr/
+
+# Fichiers d'environnement et logs
+.env
+.env.*
+*.local
+*.log
+.DS_Store
+Thumbs.db
+
+# Dossiers et documents internes de travail (non nécessaires au build du site)
+.agents/
+brief.md
+assets/flyer/flayer gris.jpeg
+
